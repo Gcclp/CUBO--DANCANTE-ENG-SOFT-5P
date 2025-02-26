@@ -58,7 +58,7 @@ transform: rotateX(90deg) translateZ(150px);
 
 .face--baixo {
 box-shadow: 0px 0px 20px rgba(0,255,38,1);
-background: rgba(0,255,38,1);
+background: rgba(0, 255, 38, 0.413);
 transform: rotateX(-90deg) translateZ(150px);
 }
 
